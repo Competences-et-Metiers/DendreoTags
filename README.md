@@ -2,9 +2,9 @@
 
 **Participant :**
 
-`{participant_civilite_complet}` 
+`{participant_civilite_complet}`
 
-`{participant_prenom}` 
+`{participant_prenom}`
 
 `{participant_nom}`
 
