@@ -13,7 +13,7 @@
 
 #### **Module :**
 
-`{module_date_add_texte}`
+{participant_module_date_effective_debut_texte}
 
 `{participant_module_heure_debut_texte}`
 
