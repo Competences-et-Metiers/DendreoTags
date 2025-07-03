@@ -11,9 +11,10 @@
 `{participant_extranet_code}`
 
 
-#### Module :
+#### **Module :**
 
 `{participant_1_m_1_date_effective_debut_texte}`
+
 `{participant_1_m_1_heure_debut}`
 
 #### **Créneaux :** 
