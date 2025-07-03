@@ -1,6 +1,6 @@
 # Liste des tags
 
-**Participant :**
+#### **Participant :**
 
 `{participant_civilite_complet}`
 
@@ -10,10 +10,11 @@
 
 `{participant_extranet_code}`
 
-**Créneaux :** 
+#### **Créneaux :** 
 
 `{creneau_date_texte}`
 
 `{creneau_heure_debut_texte}`
 
 `{creneau_heure_fin_texte}`
+
